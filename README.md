@@ -188,4 +188,4 @@ while True:
         print("Pilihan tidak valid!")
 ````
 
-![output](sspemropt10.png)
+![output](pemropt10uswatun.png)
